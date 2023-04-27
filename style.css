@@ -1,4 +1,36 @@
 .cor
 {
-    color: red;
+    color: aliceblue;
+}
+.cor1{
+    color: darkmagenta;
+}
+.cor2
+{
+    color: rgb(63, 11, 184);
+}
+
+h1 {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 100px;
+text-align: center;
+}
+
+h2
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    text-align: center;
+    font-size: 80px;
+}
+p{
+    text-align: ;
+    font-family: fantasy;
+    font-size: 50px
+}
+
+body
+{
+    background-image : url("https://lh3.googleusercontent.com/0IEC9iJMdAbc2PwkjNVbgEIB-LornVfs6eO2DnFoYOAWTpJfxJE98cVJQPSJ8uMFtDrMJWNYobvnKnqkfd8A7yw7=w440-h280-e365-rj-sc0x00ffffff");
+
+    
 }
