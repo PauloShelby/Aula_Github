@@ -1,0 +1,9 @@
+P{
+    margin-left:100px ;
+    border: 1px solid purple;
+    padding: 40px;
+    width: 1000px;
+    height: 500px;
+    box-shadow: 4px 5px rgba(0, 0, 0, 0.315);
+    text-shadow: 1px 1px blue;
+}
