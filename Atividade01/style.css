@@ -1,0 +1,14 @@
+
+img{
+
+    border-radius: 300px;
+    width: 400px;
+}
+header{
+    text-align: center;
+}
+body{
+    background-image: url("https://img.freepik.com/fotos-gratis/fundo-de-pintura-grunge_1409-1337.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
